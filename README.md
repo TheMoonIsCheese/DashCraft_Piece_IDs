@@ -11,4 +11,4 @@ There is unfortunately no way to sort by ID, but you can just scroll through sta
 This tool is useful if you have track JSON. The easiest way to get the track JSON is from my [DashCraft JSON Download tool](https://github.com/ididitrizz/DashCraft_JSON_Download).
 
 
-If you like this tool, please follow me on DashCraft (https://dashcraft.io?u=68f74a06b308c1dc2655c54c). Thanks!
+If you like this tool, please follow me on DashCraft (https://dashcraft.io?u=68d1ac9cd0bace192174937f). Thanks!
